@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lukas\\OneDrive\\Skrivebord\\BDSA\\HelloWorld\\BDSA.csproj",
-      "projectName": "BDSA",
-      "projectPath": "C:\\Users\\lukas\\OneDrive\\Skrivebord\\BDSA\\HelloWorld\\BDSA.csproj",
+      "projectUniqueName": "C:\\Users\\lukas\\OneDrive\\Skrivebord\\BDSA\\HelloWorld\\HelloWorld.csproj",
+      "projectName": "HelloWorld",
+      "projectPath": "C:\\Users\\lukas\\OneDrive\\Skrivebord\\BDSA\\HelloWorld\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\lukas\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\lukas\\OneDrive\\Skrivebord\\BDSA\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",

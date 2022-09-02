@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ms5dtB1l1tzy3UTBiCNWfq3eGLW97pTYnWO/syz/dK2ZXb18oqeqiuas1T615h7YT2//eC9jgBuMrHqH1BftYg==",
+  "dgSpecHash": "Q01Kk6l1j29HjVTGoQNM85rOFaTaA6Y+12c77B9GPtuhSQr7Q6MIL2Z9vluIWL4YqMMLW8PT+zScrbQvLToOJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lukas\\OneDrive\\Skrivebord\\BDSA\\HelloWorld\\BDSA.csproj",
+  "projectFilePath": "C:\\Users\\lukas\\OneDrive\\Skrivebord\\BDSA\\HelloWorld\\HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
