@@ -1,5 +1,8 @@
-public class leapYear{
-    public bool isLeapYear(int year){
+public static class leapYear{
+    public static bool isLeapYear(int year){
+        if(year<1582){
+            throw new ArgumentException("year is before 1582");
+        }
     if(year%400==0){
         return true;
     }
@@ -10,6 +13,12 @@ public class leapYear{
         return true;
     }
     return false;
-    //return (year % 4 == 0 && year % 100!= 0) || year % 400 ==
-}
+    }
+    public static string yayornay(int year){
+        if(isLeapYear(year)){
+            return "yay";
+        } else {
+            return "nay";
+        }
+    }
 }
